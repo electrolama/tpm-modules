@@ -7,10 +7,12 @@ There are two interfaces: SPI (SLB9670) and LPC (SLB9665). Pinouts for the modul
 Modules in this repo:
 
 **tpm-module-12pin-spi**
+
 ![tpm-module-12pin-spi](https://raw.githubusercontent.com/electrolama/tpm-modules/main/tpm-module-12pin-spi/board-render.png)
 `Status:` Untested, parts ordered for prototypes
 
 **tpm-module-14pin-lpc**
+
 ![tpm-module-14pin-lpc](https://raw.githubusercontent.com/electrolama/tpm-modules/main/tpm-module-14pin-lpc/board-render.png)
 `Status:` Untested, please raise a PR if you build and test one.
 
