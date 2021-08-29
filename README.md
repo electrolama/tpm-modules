@@ -18,6 +18,12 @@ Modules in this repo:
 
 `Status:` Untested, please raise a PR if you build and test one.
 
+**tpm-module-14pin-spi-asus**
+
+![tpm-module-14pin-spi-asus](https://raw.githubusercontent.com/electrolama/tpm-modules/main/tpm-module-14pin-spi-asus/board-render.png)
+
+`Status:` Untested, parts ordered for prototypes
+
 If you do end up designing a new module, raise a PR so we can collect them all in one repo.
 
 **UNTESTED DESIGNS - COMES WITH NO WARRANTIES OR PROMISES**
